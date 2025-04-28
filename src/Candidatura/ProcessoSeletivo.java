@@ -33,7 +33,7 @@ public class ProcessoSeletivo {
 
 
 
-    //criar um metodoffff
+    //criar um metodofffffdsfgs
     static void analisarCandidato(double salarioPretendido) {
         double salarioBase = 2000.0;
         if (salarioBase > salarioPretendido){
