@@ -33,11 +33,11 @@ public class ProcessoSeletivo {
 
 
 
-    //criar um metodofffffdsfgs
+    //criar um metodo
     static void analisarCandidato(double salarioPretendido) {
         double salarioBase = 2000.0;
         if (salarioBase > salarioPretendido){
-            System.out.println("LIGAR");
+            System.out.println("LIGAR AGORA");
         } else if (salarioBase == salarioPretendido) {
             System.out.println("ligar com contra");
         } else {
